@@ -11,3 +11,6 @@
 * [Introduction to Java Programming – Part 1](https://www.edx.org/course/introduction-java-programming-part-1-hkustx-comp102-1x-0)
 * [Introduction to Java Programming – Part 2](https://www.edx.org/course/introduction-java-programming-part-2-hkustx-comp102-2x)
 * [Java: The Complete Reference, Ninth Edition](http://www.amazon.com/Java-Complete-Reference-Ninth-Edition-ebook/dp/B00HSO0X6C)
+
+### Miscellaneous
+* [Think. Create. Code.] (https://courses.edx.org/courses/course-v1:AdelaideX+Code101x+2T2015/courseware/0655ee1be221492b90c043cc1d6cb648/)
