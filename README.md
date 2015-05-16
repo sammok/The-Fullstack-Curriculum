@@ -12,6 +12,13 @@
 * [Introduction to Java Programming – Part 2](https://www.edx.org/course/introduction-java-programming-part-2-hkustx-comp102-2x)
 * [Java: The Complete Reference, Ninth Edition](http://www.amazon.com/Java-Complete-Reference-Ninth-Edition-ebook/dp/B00HSO0X6C)
 
+### Web Application
+* [Web Application Architectures](https://www.coursera.org/course/webapplications)
+
+### Logic
+* [Introduction to Logic](https://www.coursera.org/course/intrologic)
+
+
 ### Miscellaneous
 * [Think. Create. Code.] (https://courses.edx.org/courses/course-v1:AdelaideX+Code101x+2T2015/courseware/0655ee1be221492b90c043cc1d6cb648/)
 
