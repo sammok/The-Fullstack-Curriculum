@@ -16,8 +16,8 @@
 
 ### Concurrency
 #### Asynchronous and Synchronous Transmission
-* [Synchronous and asynchronous requests](https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest/Synchronous_and_Asynchronous_Requests
-)
+* [Synchronous and asynchronous requests](https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest/Synchronous_and_Asynchronous_Requests)
+
 *[Why is my variable unaltered after I modify it inside of a function? - Asynchronous code reference
 ](http://stackoverflow.com/questions/23667086/why-is-my-variable-unaltered-after-i-modify-it-inside-of-a-function-asynchron)
 
