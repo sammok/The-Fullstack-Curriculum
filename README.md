@@ -1,5 +1,4 @@
 # FullStackEducation
-## Foundation
 ### Haskell
 * [Introduction to Programming and Algorithms](http://cs.anu.edu.au/student/comp1100/index.html)
 * [Introduction to Functional Programming](https://www.edx.org/course/introduction-functional-programming-delftx-fp101x)
