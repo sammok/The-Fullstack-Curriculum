@@ -14,3 +14,9 @@
 
 ### Miscellaneous
 * [Think. Create. Code.] (https://courses.edx.org/courses/course-v1:AdelaideX+Code101x+2T2015/courseware/0655ee1be221492b90c043cc1d6cb648/)
+
+### Python Exercises
+* [Parse This (Python)] (http://ics.misterv.ca/6-0-python/python-projects/parse-this-python)
+
+### Java Exercises
+* [Java String Exercise: Parse This] (http://ics.misterv.ca/java-a/java-unit-2/2-2-java-string-assignments/2-2-1-java-string-exercise-parse-this)
