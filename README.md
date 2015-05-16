@@ -15,6 +15,7 @@
 * [Web Application Architectures](https://www.coursera.org/course/webapplications)
 
 ### Concurrency
+![](http://yosefk.com/img/n/concurrency-centric.png)
 #### Asynchronous and Synchronous Transmission
 * [Synchronous and asynchronous requests](https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest/Synchronous_and_Asynchronous_Requests)
 
