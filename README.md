@@ -46,6 +46,6 @@
 * [Object-Oriented JavaScript] (https://www.udacity.com/course/object-oriented-javascript--ud015)
 
 
-# HTML5 Game Development
+# Game Development
 ### Algorithms
 * [Red Blob Games] (http://www.redblobgames.com)
