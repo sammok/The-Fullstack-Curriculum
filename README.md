@@ -1,4 +1,4 @@
-![](https://tctechcrunch2011.files.wordpress.com/2014/11/stacks.jpg?w=738)
+![](http://www.noxs.net/wp-content/uploads/2015/03/cropped-header_noxs.net_1.png)
 # The Fullstack Curriculum
 ### Haskell
 * [Introduction to Programming and Algorithms](http://cs.anu.edu.au/student/comp1100/index.html)
