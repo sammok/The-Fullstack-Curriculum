@@ -22,6 +22,9 @@
 #### Public/Private/Privileged
 * [Private Members in JavaScript] (http://www.crockford.com/javascript/private.html)
 
+### jQuery
+* [jQuery Pagination plugin (Optimized for bootstrap)] (http://esimakin.github.io/twbs-pagination/)
+
 ### Web Application
 * [Web Application Architectures](https://www.coursera.org/course/webapplications)
 
