@@ -24,6 +24,7 @@
 * [Private Members in JavaScript] (http://www.crockford.com/javascript/private.html)
 
 ### jQuery
+#### Pagination
 * [jQuery Pagination plugin (Optimized for bootstrap)] (http://esimakin.github.io/twbs-pagination/)
 
 ### Web Application
