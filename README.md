@@ -14,6 +14,9 @@
 ### Python
 * [python_reference] (https://github.com/rasbt/python_reference)
 
+### JavaScript
+#### Public/Private/Privileged
+* [Private Members in JavaScript] (http://www.crockford.com/javascript/private.html)
 
 ### Web Application
 * [Web Application Architectures](https://www.coursera.org/course/webapplications)
