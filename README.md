@@ -1,7 +1,7 @@
 ![](http://www.noxs.net/wp-content/uploads/2015/03/cropped-header_noxs.net_1.png)
 # The Fullstack Curriculum
-![](http://www.seas.upenn.edu/~cis194/spring13/images/haskell-logo-small.png)
 ### Haskell
+![](http://www.seas.upenn.edu/~cis194/spring13/images/haskell-logo-small.png)
 * [Introduction to Programming and Algorithms](http://cs.anu.edu.au/student/comp1100/index.html)
 * [Introduction to Functional Programming](https://www.edx.org/course/introduction-functional-programming-delftx-fp101x)
 * [Thinking Functionally with Haskell] (http://www.cambridge.org/us/academic/subjects/computer-science/programming-languages-and-applied-logic/thinking-functionally-haskell)
