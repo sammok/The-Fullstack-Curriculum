@@ -53,6 +53,7 @@
 
 
 ### Udacity
+![](http://www.christophstandfuss.de/wp-content/uploads/2013/02/udacity-logo-thumb.jpg)
 #### Web Development
 ![](https://lh3.ggpht.com/RQ6qVahymlxJnOFi2Fn6p6iLNwMQmchGjyJcJuqDUyhNBHkfmrxHYvDhApGA2rptOzmsSA_XZ8V-VV9uEQ=s275#w=1724&h=1067)
 * [Object-Oriented JavaScript] (https://www.udacity.com/course/object-oriented-javascript--ud015)
