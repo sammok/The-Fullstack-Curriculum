@@ -4,6 +4,7 @@
 ![](http://www.seas.upenn.edu/~cis194/spring13/images/haskell-logo-small.png)
 * [Introduction to Programming and Algorithms](http://cs.anu.edu.au/student/comp1100/index.html)
 * [Introduction to Functional Programming](https://www.edx.org/course/introduction-functional-programming-delftx-fp101x)
+* [Learn You a Haskell for Great Good!](http://learnyouahaskell.com/chapters)
 * [Thinking Functionally with Haskell] (http://www.cambridge.org/us/academic/subjects/computer-science/programming-languages-and-applied-logic/thinking-functionally-haskell)
 
 ### Java
