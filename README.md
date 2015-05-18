@@ -1,11 +1,13 @@
 ![](http://www.noxs.net/wp-content/uploads/2015/03/cropped-header_noxs.net_1.png)
 # The Fullstack Curriculum
+![](http://www.seas.upenn.edu/~cis194/spring13/images/haskell-logo-small.png)
 ### Haskell
 * [Introduction to Programming and Algorithms](http://cs.anu.edu.au/student/comp1100/index.html)
 * [Introduction to Functional Programming](https://www.edx.org/course/introduction-functional-programming-delftx-fp101x)
 * [Thinking Functionally with Haskell] (http://www.cambridge.org/us/academic/subjects/computer-science/programming-languages-and-applied-logic/thinking-functionally-haskell)
 
 ### Java
+![](http://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Java_logo_and_wordmark.svg/100px-Java_logo_and_wordmark.svg.png)
 * [Introduction to Software Systems] (http://cs.anu.edu.au/courses/COMP1110/)
 * [Introduction to Programming with Java - Part 1: Starting to Program in Java] (https://www.edx.org/course/introduction-programming-java-part-1-uc3mx-it-1-1x)
 * [Introduction to Java Programming – Part 1](https://www.edx.org/course/introduction-java-programming-part-1-hkustx-comp102-1x-0)
@@ -13,6 +15,7 @@
 * [Java: The Complete Reference, Ninth Edition](http://www.amazon.com/Java-Complete-Reference-Ninth-Edition-ebook/dp/B00HSO0X6C)
 
 ### Python
+![](http://slicer.org/slicerWiki/images/3/31/Python-logo.png)
 * [python_reference] (https://github.com/rasbt/python_reference)
 
 ### JavaScript
