@@ -1,4 +1,3 @@
-![](http://www.noxs.net/wp-content/uploads/2015/03/cropped-header_noxs.net_1.png)
 # The Fullstack Curriculum
 ### Haskell
 ![](http://www.seas.upenn.edu/~cis194/spring13/images/haskell-logo-small.png)
