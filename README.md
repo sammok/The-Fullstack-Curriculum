@@ -60,12 +60,18 @@
 ##### Chat Noir
 ![](http://jeuxrouille.com/wp-content/uploads/2013/02/ChatNoir.png)
 * [Chat Noir] (http://www.onemorelevel.com/game/chat_noir)
+*Tools*
+* [TexturePacker](http://phaser.io/examples/v2/tilemaps/create-from-objects)
+* [JPEXS Free Flash Decompiler](http://www.advanceduninstaller.com/JPEXS-Free-Flash-Decompiler-edaa6ed411a19f9add3270b127b500bd-application.htm)
 
 ### Udacity
 ![](http://www.christophstandfuss.de/wp-content/uploads/2013/02/udacity-logo-thumb.jpg)
 #### Web Development
 ![](https://lh3.ggpht.com/RQ6qVahymlxJnOFi2Fn6p6iLNwMQmchGjyJcJuqDUyhNBHkfmrxHYvDhApGA2rptOzmsSA_XZ8V-VV9uEQ=s275#w=1724&h=1067)
 * [Object-Oriented JavaScript] (https://www.udacity.com/course/object-oriented-javascript--ud015)
+
+![](https://lh5.ggpht.com/C-c9-2x5jVtuwhzNRR-RzDnp_5sAHFTaKeySuZYlUZDv0P4GTKCA4wsS_PLuT7MokRAKaZ1o9JmsY2eTUJc0=s277#w=436&h=268)
+* [HTML5 Game Development] (https://www.udacity.com/course/html5-game-development--cs255)
 
 
 # Game Development
