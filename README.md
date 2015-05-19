@@ -57,6 +57,10 @@
 * [Breakout Clone] (https://scratch.mit.edu/projects/24413372/)
 * [Tutorial] (http://billmill.org/static/canvastutorial/finish.html)
 
+##### Chat Noir
+![](http://jeuxrouille.com/wp-content/uploads/2013/02/ChatNoir.png)
+* [Chat Noir] (http://www.onemorelevel.com/game/chat_noir)
+
 ### Udacity
 ![](http://www.christophstandfuss.de/wp-content/uploads/2013/02/udacity-logo-thumb.jpg)
 #### Web Development
