@@ -60,7 +60,6 @@
 ##### Chat Noir
 ![](http://jeuxrouille.com/wp-content/uploads/2013/02/ChatNoir.png)
 * [Chat Noir] (http://www.onemorelevel.com/game/chat_noir)
-*Tools*
 * [TexturePacker](http://phaser.io/examples/v2/tilemaps/create-from-objects)
 * [JPEXS Free Flash Decompiler](http://www.advanceduninstaller.com/JPEXS-Free-Flash-Decompiler-edaa6ed411a19f9add3270b127b500bd-application.htm)
 
